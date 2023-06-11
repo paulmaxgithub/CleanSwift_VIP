@@ -85,8 +85,8 @@
 			isa = PBXGroup;
 			children = (
 				18D775CE22AD944400AE281E /* Info.plist */,
-				EA3B6B662725B14100CE9E2B /* ScoopsAndSconesTests */,
-				18D775BF22AD944300AE281E /* ScoopsAndScones */,
+				EA3B6B662725B14100CE9E2B /* IceCreamCreatorTests */,
+				18D775BF22AD944300AE281E /* IceCreamCreator */,
 				EAEAAE6927415C3D0015D245 /* Domain */,
 				18D775BE22AD944300AE281E /* Products */,
 			);
@@ -103,7 +103,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		18D775BF22AD944300AE281E /* ScoopsAndScones */ = {
+		18D775BF22AD944300AE281E /* IceCreamCreator */ = {
 			isa = PBXGroup;
 			children = (
 				18D775DA22AD963800AE281E /* LaunchScreen.storyboard */,
@@ -112,7 +112,7 @@
 				63A32CB62A33D6C000E604D7 /* Resources */,
 				18D775C822AD944400AE281E /* Preview Content */,
 			);
-			path = ScoopsAndScones;
+			path = IceCreamCreator;
 			sourceTree = "<group>";
 		};
 		18D775C822AD944400AE281E /* Preview Content */ = {
@@ -132,12 +132,12 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		EA3B6B662725B14100CE9E2B /* ScoopsAndSconesTests */ = {
+		EA3B6B662725B14100CE9E2B /* IceCreamCreatorTests */ = {
 			isa = PBXGroup;
 			children = (
 				EAEAAE5E27415AFF0015D245 /* Scenes */,
 			);
-			path = ScoopsAndSconesTests;
+			path = IceCreamCreatorTests;
 			sourceTree = "<group>";
 		};
 		EA3B6B6E27282C8600CE9E2B /* Models */ = {
@@ -516,7 +516,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "ScoopsAndScones/Preview\\ Content";
+				DEVELOPMENT_ASSET_PATHS = "IceCreamCreator/Preview\\ Content";
 				DEVELOPMENT_TEAM = HC6H4VN3L2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
@@ -536,7 +536,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "ScoopsAndScones/Preview\\ Content";
+				DEVELOPMENT_ASSET_PATHS = "IceCreamCreator/Preview\\ Content";
 				DEVELOPMENT_TEAM = HC6H4VN3L2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
