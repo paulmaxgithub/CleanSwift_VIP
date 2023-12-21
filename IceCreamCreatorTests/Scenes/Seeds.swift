@@ -1,7 +1,7 @@
 
 
 import XCTest
-@testable import ScoopsAndScones
+@testable import IceCreamCreator
 
 enum Seeds {
   static let iceCream = IceCream(

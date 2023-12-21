@@ -1,7 +1,7 @@
 
 
 import XCTest
-@testable import ScoopsAndScones
+@testable import IceCreamCreator
 
 class CreateIceCreamPresenterTests: XCTestCase {
   
