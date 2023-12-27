@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "DA13CA94-EBD0-4F7B-B992-3AE51178CD79",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:IceCreamCreator.xcodeproj",
+      "identifier" : "18D775BC22AD944300AE281E",
+      "name" : "IceCreamCreator"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:IceCreamCreator.xcodeproj",
+        "identifier" : "EA3B6B642725B14100CE9E2B",
+        "name" : "IceCreamCreatorTests"
+      }
+    }
+  ],
+  "version" : 1
+}
