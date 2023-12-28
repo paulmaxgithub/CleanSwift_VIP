@@ -61,7 +61,7 @@
 		FA5B22D52B3D4E8C001DCA4A /* CreateIceCreamViewTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIceCreamViewTests.swift; sourceTree = "<group>"; };
 		FA5B22D62B3D4E8C001DCA4A /* CreateIceCreamInteractorTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIceCreamInteractorTests.swift; sourceTree = "<group>"; };
 		FA5B22D72B3D4E8C001DCA4A /* CreateIceCreamPresenterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIceCreamPresenterTests.swift; sourceTree = "<group>"; };
-		FA5B22DD2B3D52CD001DCA4A /* IceCreamCreator.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = IceCreamCreator.xctestplan; path = IceCreamCreatorTests/IceCreamCreator.xctestplan; sourceTree = "<group>"; };
+		FAF1812B2B3DD1A5006F0F28 /* IceCreamCreatorTestPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = IceCreamCreatorTestPlan.xctestplan; path = IceCreamCreatorTests/IceCreamCreatorTestPlan.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +78,7 @@
 		18D775B422AD944300AE281E = {
 			isa = PBXGroup;
 			children = (
-				FA5B22DD2B3D52CD001DCA4A /* IceCreamCreator.xctestplan */,
+				FAF1812B2B3DD1A5006F0F28 /* IceCreamCreatorTestPlan.xctestplan */,
 				18D775CE22AD944400AE281E /* Info.plist */,
 				EA3B6B662725B14100CE9E2B /* IceCreamCreatorTests */,
 				18D775BF22AD944300AE281E /* IceCreamCreator */,

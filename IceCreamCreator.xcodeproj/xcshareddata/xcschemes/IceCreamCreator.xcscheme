@@ -29,7 +29,7 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <TestPlans>
          <TestPlanReference
-            reference = "container:IceCreamCreatorTests/IceCreamCreator.xctestplan"
+            reference = "container:IceCreamCreatorTests/IceCreamCreatorTestPlan.xctestplan"
             default = "YES">
          </TestPlanReference>
       </TestPlans>

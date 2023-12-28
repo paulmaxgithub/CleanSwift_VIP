@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "DB3126E5-2E40-4ABA-874B-2B9F89A5C9B1",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:IceCreamCreator.xcodeproj",
+        "identifier" : "EA3B6B642725B14100CE9E2B",
+        "name" : "IceCreamCreatorTests"
+      }
+    }
+  ],
+  "version" : 1
+}
