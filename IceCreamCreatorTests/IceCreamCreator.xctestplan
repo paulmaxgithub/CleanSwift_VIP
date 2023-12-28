@@ -1,10 +1,14 @@
 {
   "configurations" : [
     {
-      "id" : "DA13CA94-EBD0-4F7B-B992-3AE51178CD79",
+      "id" : "4D173513-2120-4ABA-A787-910D41D780A5",
       "name" : "Test Scheme Action",
       "options" : {
-
+        "targetForVariableExpansion" : {
+          "containerPath" : "container:IceCreamCreator.xcodeproj",
+          "identifier" : "18D775BC22AD944300AE281E",
+          "name" : "IceCreamCreator"
+        }
       }
     }
   ],
