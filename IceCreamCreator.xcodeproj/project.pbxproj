@@ -62,6 +62,8 @@
 		FA5B22D62B3D4E8C001DCA4A /* CreateIceCreamInteractorTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIceCreamInteractorTests.swift; sourceTree = "<group>"; };
 		FA5B22D72B3D4E8C001DCA4A /* CreateIceCreamPresenterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIceCreamPresenterTests.swift; sourceTree = "<group>"; };
 		FAF1812B2B3DD1A5006F0F28 /* IceCreamCreatorTestPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = IceCreamCreatorTestPlan.xctestplan; path = IceCreamCreatorTests/IceCreamCreatorTestPlan.xctestplan; sourceTree = "<group>"; };
+		FAF1812E2B48BF66006F0F28 /* AppIcon-Beta.appiconset */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "AppIcon-Beta.appiconset"; sourceTree = "<group>"; };
+		FAF1812F2B48C055006F0F28 /* ci_pre_xcodebuild.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = ci_pre_xcodebuild.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 		18D775B422AD944300AE281E = {
 			isa = PBXGroup;
 			children = (
+				FAF1812D2B48BDC9006F0F28 /* ci_scripts */,
 				FAF1812B2B3DD1A5006F0F28 /* IceCreamCreatorTestPlan.xctestplan */,
 				18D775CE22AD944400AE281E /* Info.plist */,
 				EA3B6B662725B14100CE9E2B /* IceCreamCreatorTests */,
@@ -216,6 +219,15 @@
 				FA5B22D52B3D4E8C001DCA4A /* CreateIceCreamViewTests.swift */,
 			);
 			path = "Test Classes";
+			sourceTree = "<group>";
+		};
+		FAF1812D2B48BDC9006F0F28 /* ci_scripts */ = {
+			isa = PBXGroup;
+			children = (
+				FAF1812E2B48BF66006F0F28 /* AppIcon-Beta.appiconset */,
+				FAF1812F2B48C055006F0F28 /* ci_pre_xcodebuild.sh */,
+			);
+			path = ci_scripts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
