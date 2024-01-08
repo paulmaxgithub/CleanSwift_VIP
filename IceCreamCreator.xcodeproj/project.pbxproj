@@ -224,8 +224,8 @@
 		FAF1812D2B48BDC9006F0F28 /* ci_scripts */ = {
 			isa = PBXGroup;
 			children = (
-				FAF1812E2B48BF66006F0F28 /* AppIcon-Beta.appiconset */,
 				FAF1812F2B48C055006F0F28 /* ci_pre_xcodebuild.sh */,
+				FAF1812E2B48BF66006F0F28 /* AppIcon-Beta.appiconset */,
 			);
 			path = ci_scripts;
 			sourceTree = "<group>";
